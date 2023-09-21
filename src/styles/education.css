@@ -1,0 +1,8 @@
+.education {
+  color: white;
+  font-weight: bolder;
+}
+.education:hover {
+  color: green;
+  cursor: pointer;
+}

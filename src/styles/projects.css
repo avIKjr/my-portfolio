@@ -1,0 +1,15 @@
+.project {
+  color: white;
+  font-weight: bolder;
+}
+.project:hover {
+  color: yellow;
+  cursor: pointer;
+}
+.card {
+  transition: 0.3s ease;
+}
+.card:hover {
+  transform: scale(0.96);
+  cursor: pointer;
+}

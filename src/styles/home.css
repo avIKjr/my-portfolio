@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.item_hover:hover {
+  color: rgb(248, 134, 4);
+  cursor: pointer;
+}
+.item_hover {
+  color: rgb(249, 249, 250);
+}
+.item_hover_e {
+  color: rgb(249, 249, 250);
+}
+.item_hover_p {
+  color: rgb(249, 249, 250);
+}
+.item_hover_c {
+  color: rgb(249, 249, 250);
+}
+.item_hover_p:hover {
+  color: yellow;
+  cursor: pointer;
+}
+.item_hover_e:hover {
+  color: green;
+  cursor: pointer;
+}
+.item_hover_c:hover {
+  color: rgb(23, 170, 255);
+  cursor: pointer;
+}
+.myNav {
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sh {
+  text-shadow: 2px 2px 4px #000000;
+}

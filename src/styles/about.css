@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.about {
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #434343,
+    #000000
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.white {
+  color: rgba(255, 255, 255, 0.493);
+}
+.white1 {
+  color: whitesmoke;
+}
+.avik_image {
+  transition: 0.3s ease;
+}
+.avik_image:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.name {
+  color: white;
+}
+.name:hover {
+  color: rgb(248, 134, 4);
+  cursor: pointer;
+}

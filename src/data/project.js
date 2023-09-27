@@ -61,6 +61,14 @@ let projectsData = [
     github: "https://github.com/avIKjr/Multiplication_App",
     url: null,
     image: "assets/multiplication-app.JPG",
+  },{
+    id: 8,
+    name: "Doctor Appointment Book",
+    description:
+      "Its a simple Doctor Appointment Book app where you can select doctors based on their categories and check their schedule. Its fully dynamic and responsive. For the frontend part of this project I used React, html, css, BootStrap and for the Backend portion I used Node Js and Express Js and for Database I used MongoDB. Also It is deployed on Render. ",
+    github: "https://github.com/avIKjr/doctor_appointment_frontend",
+    url: "https://doctor-appointment-frontend-13fu.onrender.com/",
+    image: "assets/doctor-appointment-app.JPG",
   },
 ];
 export default projectsData;

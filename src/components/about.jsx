@@ -98,7 +98,7 @@ function About() {
           </div>
           <div className="fs-3 p-3 mb-3  fw-bold white1">
             Download my resume{" "}
-            <a href="assets\Avik_Mitra_CV_2025.pdf" download="resume" className="">
+            <a href="assets\Avik_Mitra_CV.pdf" download="resume" className="">
               <FontAwesomeIcon
                 icon={faDownload}
                 size="xl"
